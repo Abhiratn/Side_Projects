@@ -1,0 +1,11 @@
+D:\Visual Studio\Learning\Calc\Calc\bin\Debug\Calc.exe.config
+D:\Visual Studio\Learning\Calc\Calc\bin\Debug\Calc.exe
+D:\Visual Studio\Learning\Calc\Calc\bin\Debug\Calc.pdb
+D:\Visual Studio\Learning\Calc\Calc\obj\Debug\Calc.csproj.AssemblyReference.cache
+D:\Visual Studio\Learning\Calc\Calc\obj\Debug\Calc.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Learning\Calc\Calc\obj\Debug\Calc.Form1.resources
+D:\Visual Studio\Learning\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\Visual Studio\Learning\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+D:\Visual Studio\Learning\Calc\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Learning\Calc\Calc\obj\Debug\Calc.exe
+D:\Visual Studio\Learning\Calc\Calc\obj\Debug\Calc.pdb
