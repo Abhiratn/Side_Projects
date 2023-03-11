@@ -1,2 +1,3 @@
 # Side_Projects
-Bored Brain trying Stuffs
+when i get bored i create these small projects to freshen my mood lighten my soul
+
