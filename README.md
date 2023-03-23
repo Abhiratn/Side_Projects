@@ -8,7 +8,7 @@ if (you want == only program file)
 }
 else 
 {
-    you can download the whole file and run it in VS Code;
+    you can download the whole file and run it in VS Studio;
 }
 
 ```
