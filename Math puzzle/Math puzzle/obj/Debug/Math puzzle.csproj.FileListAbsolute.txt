@@ -1,0 +1,11 @@
+D:\Visual Studio\Learning\Math puzzle\Math puzzle\bin\Debug\Math puzzle.exe.config
+D:\Visual Studio\Learning\Math puzzle\Math puzzle\bin\Debug\Math puzzle.exe
+D:\Visual Studio\Learning\Math puzzle\Math puzzle\bin\Debug\Math puzzle.pdb
+D:\Visual Studio\Learning\Math puzzle\Math puzzle\obj\Debug\Math puzzle.csproj.AssemblyReference.cache
+D:\Visual Studio\Learning\Math puzzle\Math puzzle\obj\Debug\Math puzzle.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Learning\Math puzzle\Math puzzle\obj\Debug\Math_puzzle.Form1.resources
+D:\Visual Studio\Learning\Math puzzle\Math puzzle\obj\Debug\Math_puzzle.Properties.Resources.resources
+D:\Visual Studio\Learning\Math puzzle\Math puzzle\obj\Debug\Math puzzle.csproj.GenerateResource.cache
+D:\Visual Studio\Learning\Math puzzle\Math puzzle\obj\Debug\Math puzzle.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Learning\Math puzzle\Math puzzle\obj\Debug\Math puzzle.exe
+D:\Visual Studio\Learning\Math puzzle\Math puzzle\obj\Debug\Math puzzle.pdb
