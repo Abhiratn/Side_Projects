@@ -1,0 +1,11 @@
+D:\Visual Studio\Learning\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.AssemblyReference.cache
+D:\Visual Studio\Learning\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Learning\Matching Game\Matching Game\obj\Debug\Matching_Game.Form1.resources
+D:\Visual Studio\Learning\Matching Game\Matching Game\obj\Debug\Matching_Game.Properties.Resources.resources
+D:\Visual Studio\Learning\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.GenerateResource.cache
+D:\Visual Studio\Learning\Matching Game\Matching Game\obj\Debug\Matching Game.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Learning\Matching Game\Matching Game\bin\Debug\Matching Game.exe.config
+D:\Visual Studio\Learning\Matching Game\Matching Game\bin\Debug\Matching Game.exe
+D:\Visual Studio\Learning\Matching Game\Matching Game\bin\Debug\Matching Game.pdb
+D:\Visual Studio\Learning\Matching Game\Matching Game\obj\Debug\Matching Game.exe
+D:\Visual Studio\Learning\Matching Game\Matching Game\obj\Debug\Matching Game.pdb
